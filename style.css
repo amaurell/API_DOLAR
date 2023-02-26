@@ -26,8 +26,9 @@
   0 41.8px 33.4px rgba(0, 0, 0, 0.086),
   0 100px 80px rgba(0, 0, 0, 0.12);
   
-  width: 25%;
-  height: 45%;
+  width: 16rem;
+  height: 24rem;
+ 
 }
 .titulo {
   display: flex;
@@ -55,51 +56,8 @@
   text-align: center;
   
 }
-@media (min-width: 375px) {
- 
-  .box {
-    width: 80%;
-    height: 80%; 
-   }
-   .box .dolarDia {
-    font-size: 5rem;
-   }
-} 
-@media (min-width: 768px) {
-  .box {
-    width: 70%;
-    height: 70%; 
-   }
-   .box .titulo {
-    font-size: 2rem;
-   }
-   .box .dolarDia {
-    font-size: 10rem;
-   }
-   
-} 
-@media (min-width: 1024px) {
-  .box {
-    width: 25%;
-    height: 45%;
-    
-  }
-  .box .titulo {
-    font-size: 0.8rem;
-   }
-   .box .dolarDia {
-    font-size: 5rem;
-   }
-} @media (min-width: 1080px) {
-  .box {
-    width: 80%;
-    height: 80%;
-    
-  }
-  .box .titulo {
-    font-size: 3rem;
-   }
-   .box .dolarDia {
-    font-size: 16rem;
-   }
-} 
+
+
+
+
+
