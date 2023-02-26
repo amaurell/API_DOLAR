@@ -90,4 +90,16 @@
    .box .dolarDia {
     font-size: 5rem;
    }
+} @media (min-width: 1080px) {
+  .box {
+    width: 80%;
+    height: 80%;
+    
+  }
+  .box .titulo {
+    font-size: 3rem;
+   }
+   .box .dolarDia {
+    font-size: 16rem;
+   }
 } 
